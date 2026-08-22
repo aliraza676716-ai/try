@@ -1,0 +1,8 @@
+{
+  "name": "Lumina",
+  "description": "Lumina - AI Image Creation with elegant prompt analysis, deep zoom image inspection, and multi-key diffusion management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
